@@ -1,0 +1,452 @@
+{
+  "store": {
+    "name": "AURAA",
+    "about": "متجرك المتخصص في أرقى العطور العالمية والعربية الأصلية، بأسعار منافسة وشحن سريع لجميع المدن.",
+    "phone": "+966 5X XXX XXXX",
+    "email": "support@auraa.com",
+    "hours": "خدمة العملاء: 9 صباحاً - 9 مساءً",
+    "copyright": "© 2026 AURAA. جميع الحقوق محفوظة",
+    "currency": "ر.س"
+  },
+  "nav": [
+    {
+      "label": "الرئيسية",
+      "home": true
+    },
+    {
+      "label": "جميع المنتجات",
+      "cat": "all"
+    },
+    {
+      "label": "العطور الرجالية",
+      "cat": "men"
+    },
+    {
+      "label": "العطور النسائية",
+      "cat": "women"
+    },
+    {
+      "label": "مجموعات العطور",
+      "cat": "sets"
+    },
+    {
+      "label": "عروض خاصة",
+      "cat": "offers"
+    }
+  ],
+  "slides": [
+    {
+      "img": "hero-1.jpg",
+      "alt": "عطور عالمية فاخرة"
+    },
+    {
+      "img": "hero-2.jpg",
+      "alt": "عطور عربية وعود"
+    }
+  ],
+  "promo": {
+    "img": "hero-2.jpg",
+    "tag": "لفترة محدودة",
+    "title": "خصم يصل إلى 30% على مجموعات الهدايا",
+    "text": "أجمل العطور معبأة في علب هدايا فاخرة لمن تحب",
+    "cta": "تسوّق مجموعات الهدايا",
+    "cat": "sets"
+  },
+  "categories": [
+    {
+      "id": "offers",
+      "label": "عروض خاصة",
+      "short": "عروض",
+      "img": "cat-offers.jpg"
+    },
+    {
+      "id": "arabic",
+      "label": "عطور عربية",
+      "short": "عربية",
+      "img": "cat-arabic.jpg"
+    },
+    {
+      "id": "luxury",
+      "label": "العطور الفاخرة",
+      "short": "فاخرة",
+      "img": "cat-luxury.jpg"
+    },
+    {
+      "id": "sets",
+      "label": "مجموعات العطور",
+      "short": "مجموعات",
+      "img": "cat-sets.jpg"
+    },
+    {
+      "id": "women",
+      "label": "عطور نسائية",
+      "short": "نسائية",
+      "img": "cat-women.jpg"
+    },
+    {
+      "id": "men",
+      "label": "عطور رجالية",
+      "short": "رجالية",
+      "img": "cat-men.jpg"
+    }
+  ],
+  "features": [
+    {
+      "icon": "truck",
+      "title": "شحن سريع",
+      "text": "توصيل خلال 2-4 أيام لجميع المدن"
+    },
+    {
+      "icon": "badge",
+      "title": "منتجات أصلية",
+      "text": "عطور أصلية 100% من الوكلاء"
+    },
+    {
+      "icon": "shield",
+      "title": "دفع آمن",
+      "text": "الدفع عند الاستلام أو بالبطاقة"
+    },
+    {
+      "icon": "refresh",
+      "title": "إرجاع مجاني",
+      "text": "استرجاع خلال 14 يوم من الشراء"
+    }
+  ],
+  "brands": [
+    "Dior",
+    "Chanel",
+    "Tom Ford",
+    "Creed",
+    "YSL",
+    "Lattafa",
+    "Guerlain",
+    "Armani"
+  ],
+  "testimonials": [
+    {
+      "name": "أحمد م.",
+      "city": "الرياض",
+      "text": "العطر أصلي تماماً ووصلني أسرع من المتوقع. تجربة تسوق ممتازة وسأكرر الشراء بالتأكيد."
+    },
+    {
+      "name": "سارة ع.",
+      "city": "جدة",
+      "text": "التفف أكثر من رائحة جميلة وثبات رهيب. التغليف كان أنيق جداً وكأنه هدية حقيقية."
+    },
+    {
+      "name": "خالد س.",
+      "city": "الدمام",
+      "text": "أسعار منافسة مقارنة بالمتاجر الأخرى، وخدمة العملاء ساعدتني في اختيار العطر المناسب."
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "slug": "dior-sauvage",
+      "name": "Dior Sauvage",
+      "brand": "Dior",
+      "price": 599,
+      "reviews": 142,
+      "size": "100 مل",
+      "img": "p-sauvage.jpg",
+      "cats": [
+        "men",
+        "luxury"
+      ],
+      "description": "عطر رجالي منعش بلمسات من البرغموت والفلفل وخشب الأمبروكسان، مثالي للاستخدام اليومي والمناسبات.",
+      "notes": [
+        "برغموت",
+        "فلفل",
+        "أمبروكسان"
+      ],
+      "best": true
+    },
+    {
+      "id": 2,
+      "slug": "ysl-libre",
+      "name": "Yves Saint Laurent Libre",
+      "brand": "YSL",
+      "price": 459,
+      "reviews": 98,
+      "size": "100 مل",
+      "img": "p-libre.jpg",
+      "cats": [
+        "women"
+      ],
+      "description": "عطر نسائي جريء يجمع بين اللافندر الفرنسي وزهر البرتقال المغربي والفانيليا.",
+      "notes": [
+        "لافندر",
+        "زهر البرتقال",
+        "فانيليا"
+      ],
+      "best": true
+    },
+    {
+      "id": 3,
+      "slug": "chanel-chance",
+      "name": "Chanel Chance",
+      "brand": "Chanel",
+      "price": 499,
+      "reviews": 84,
+      "size": "100 مل",
+      "img": "p-chance.jpg",
+      "cats": [
+        "women",
+        "luxury"
+      ],
+      "description": "عطر زهري مشرق ومرح بنفحات الياسمين والباتشولي والمسك الأبيض.",
+      "notes": [
+        "ياسمين",
+        "باتشولي",
+        "مسك أبيض"
+      ],
+      "best": true
+    },
+    {
+      "id": 4,
+      "slug": "tom-ford-oud-wood",
+      "name": "Tom Ford Oud Wood",
+      "brand": "Tom Ford",
+      "price": 699,
+      "reviews": 112,
+      "size": "100 مل",
+      "img": "p-oud.jpg",
+      "cats": [
+        "men",
+        "luxury"
+      ],
+      "description": "عطر خشبي فاخر يمزج العود النادر مع خشب الصندل والهيل.",
+      "notes": [
+        "عود",
+        "صندل",
+        "هيل"
+      ],
+      "best": true
+    },
+    {
+      "id": 5,
+      "slug": "creed-aventus",
+      "name": "Creed Aventus",
+      "brand": "Creed",
+      "price": 899,
+      "reviews": 76,
+      "size": "100 مل",
+      "img": "p-creed.jpg",
+      "cats": [
+        "men",
+        "luxury"
+      ],
+      "description": "عطر أيقوني بنفحات الأناناس والبتولا المدخنة والمسك، رمز للقوة والنجاح.",
+      "notes": [
+        "أناناس",
+        "بتولا",
+        "مسك"
+      ],
+      "best": true
+    },
+    {
+      "id": 6,
+      "slug": "lattafa-khamrah",
+      "name": "Lattafa Khamrah",
+      "brand": "Lattafa",
+      "price": 349,
+      "reviews": 90,
+      "size": "100 مل",
+      "img": "p-lattafa.jpg",
+      "cats": [
+        "arabic"
+      ],
+      "description": "عطر شرقي دافئ بالقرفة والتمر والبرالين مع قاعدة من العنبر.",
+      "notes": [
+        "قرفة",
+        "تمر",
+        "عنبر"
+      ],
+      "best": true
+    },
+    {
+      "id": 7,
+      "slug": "royal-oud-amber",
+      "name": "Royal Oud Amber",
+      "brand": "AURAA",
+      "price": 389,
+      "oldPrice": 489,
+      "reviews": 64,
+      "size": "100 مل",
+      "img": "p-oud-arabic.jpg",
+      "cats": [
+        "arabic",
+        "offers"
+      ],
+      "description": "مزيج ملكي من العود الكمبودي والعنبر الدافئ بثبات يدوم طويلاً.",
+      "notes": [
+        "عود",
+        "عنبر",
+        "زعفران"
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "signature-gift-set",
+      "name": "Signature Gift Set",
+      "brand": "AURAA",
+      "price": 749,
+      "reviews": 41,
+      "size": "100 مل",
+      "img": "p-giftset.jpg",
+      "cats": [
+        "sets",
+        "luxury"
+      ],
+      "description": "مجموعة هدايا فاخرة تضم ثلاثة عطور مختارة في علبة أنيقة.",
+      "notes": [
+        "تشكيلة متنوعة"
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "rose-blossom",
+      "name": "Rose Blossom",
+      "brand": "AURAA",
+      "price": 319,
+      "oldPrice": 399,
+      "reviews": 57,
+      "size": "100 مل",
+      "img": "p-rose.jpg",
+      "cats": [
+        "women",
+        "offers"
+      ],
+      "description": "عطر الورد الطائفي الناعم مع لمسة من الليتشي والمسك.",
+      "notes": [
+        "ورد طائفي",
+        "ليتشي",
+        "مسك"
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "crystal-noir",
+      "name": "Crystal Noir",
+      "brand": "AURAA",
+      "price": 549,
+      "reviews": 38,
+      "size": "100 مل",
+      "img": "p-crystal.jpg",
+      "cats": [
+        "men"
+      ],
+      "description": "عطر مسائي غامض بنفحات الجلد والتوابل والخشب الداكن.",
+      "notes": [
+        "جلد",
+        "توابل",
+        "خشب"
+      ]
+    },
+    {
+      "id": 11,
+      "slug": "duo-discovery-set",
+      "name": "Duo Discovery Set",
+      "brand": "AURAA",
+      "price": 399,
+      "oldPrice": 520,
+      "reviews": 33,
+      "size": "100 مل",
+      "img": "p-giftset.jpg",
+      "cats": [
+        "sets",
+        "offers"
+      ],
+      "description": "مجموعة اكتشاف من عطرين بحجم السفر، مثالية كهدية.",
+      "notes": [
+        "تشكيلة متنوعة"
+      ]
+    },
+    {
+      "id": 12,
+      "slug": "amber-nights",
+      "name": "Amber Nights",
+      "brand": "AURAA",
+      "price": 479,
+      "reviews": 21,
+      "size": "100 مل",
+      "img": "p-amber-nights.jpg",
+      "cats": [
+        "men",
+        "arabic"
+      ],
+      "description": "عطر العنبر الليلي الدافئ مع البخور والفانيليا.",
+      "notes": [
+        "عنبر",
+        "بخور",
+        "فانيليا"
+      ],
+      "isNew": true
+    },
+    {
+      "id": 13,
+      "slug": "jasmine-whisper",
+      "name": "Jasmine Whisper",
+      "brand": "AURAA",
+      "price": 389,
+      "oldPrice": 459,
+      "reviews": 18,
+      "size": "100 مل",
+      "img": "p-jasmine.jpg",
+      "cats": [
+        "women",
+        "offers"
+      ],
+      "description": "همسة ياسمين رقيقة مع زهر البرتقال والمسك الأبيض.",
+      "notes": [
+        "ياسمين",
+        "زهر البرتقال",
+        "مسك"
+      ],
+      "isNew": true
+    },
+    {
+      "id": 14,
+      "slug": "blue-oud-intense",
+      "name": "Blue Oud Intense",
+      "brand": "AURAA",
+      "price": 649,
+      "reviews": 12,
+      "size": "100 مل",
+      "img": "p-blue-oud.jpg",
+      "cats": [
+        "men",
+        "luxury"
+      ],
+      "description": "عود أزرق مكثف بنفحات بحرية منعشة وقاعدة خشبية.",
+      "notes": [
+        "عود",
+        "نفحات بحرية",
+        "فيتيفر"
+      ],
+      "isNew": true
+    },
+    {
+      "id": 15,
+      "slug": "vanilla-musk-royale",
+      "name": "Vanilla Musk Royale",
+      "brand": "AURAA",
+      "price": 429,
+      "oldPrice": 499,
+      "reviews": 15,
+      "size": "100 مل",
+      "img": "p-vanilla-musk.jpg",
+      "cats": [
+        "arabic",
+        "offers"
+      ],
+      "description": "مسك ملكي ناعم ممزوج بالفانيليا الدافئة.",
+      "notes": [
+        "فانيليا",
+        "مسك",
+        "صندل"
+      ],
+      "isNew": true
+    }
+  ]
+}
